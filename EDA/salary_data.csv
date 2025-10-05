@@ -1,0 +1,11 @@
+﻿Country,Age,Salary,Purchased
+Thailand,44,45000,0
+Malaysia,27,48000,1
+Indonesia,30,54000,0
+Malaysia,38,61000,0
+Indonesia,40,,1
+Thailand,35,58000,1
+Malaysia,,25000,0
+Thailand,48,30000,1
+Indonesia,50,79000,0
+Thailand,37,83000,1
